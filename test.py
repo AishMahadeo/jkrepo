@@ -1,1 +1,1 @@
-echo "This script got executed from github"
+print("Hello World") 
